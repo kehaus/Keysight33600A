@@ -156,9 +156,9 @@ if __name__ == "__main__":
     # ==========
     # test awg class
     # ==========
-    protocol = 'TCPIP'
-    addr = 'FDN-AWG.local::inst0'
-    awg = Keysight33600A(protocol, addr)
+#    protocol = 'TCPIP'
+#    addr = 'FDN-AWG.local::inst0'
+#    awg = Keysight33600A(protocol, addr)
 
     
     pass
